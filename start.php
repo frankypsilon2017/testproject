@@ -2,7 +2,7 @@
 
 print "Wir testen Git for Windows!";
 
-print "HHHH";
+print "HHHH2";
 
 Print "GGGGGG";
 
